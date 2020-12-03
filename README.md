@@ -1,7 +1,5 @@
 # Comparing-regional-Covid-19-data-trends-in-MD-and-MT-to-assess-short-term-risks-of-travel
 Comparing regional Covid-19 data from these two locations to assess risks of travel to and from. 
-# Baltimore-Butte-comparing-covid-19-data using county level data from New York Times Covid-19 Data - US Counties and States 
-Comparing Covid-19 data in Baltimore, MD and Butte, MT from year 2020
 ## __Isaac Johnson__ 
 ### __Mini Project #1 - Data Trends and Visualization with Python__
 ### Decision Analytics
@@ -31,7 +29,7 @@ Python and Google Collaboratory will be used for data analysis
 # Data Answer
 ## Trends in daily covid cases
 First the daily covid cases for past 30 days were examined for Maryland and Montana. This provides some surveillance of the landscape we're going to potentially be interacting with. Maryland and Montana have vastly different population sizes with Maryland population estimated as while Montana population is estimated as 
-![alt text](https://colab.research.google.com/drive/1x5RL8Xem-qcrM2Gn2yRchTNPzH44BaXi#scrollTo=Y9RitvEx9zfL&line=1&uniqifier=1)
+![alt text](https://github.com/ijohns29/Comparing-regional-Covid-19-data-trends-in-MD-and-MT-to-assess-short-term-risks-of-travel/blob/main/Figure_1_Covid19_daily_cases_MD.jpg)
 Secondly, we examined 3-day averaged incidence and 7 day averaged incidence for Baltimore City and Silver Bow county. According to the CDC, the 3-day incidence number can be used to determine whether illnesses in the area are increasing, decreasing, or stable. The 7-day incidence is a common metric included in county and state level data so we included that too. Often there tends to be decreases in testing over the weekend so this helps smooth that out. As noted below many states have requirements regarding testing, or travel adviseries etc., if the 7 day average of cases per 100k is over a certain threshold. Furthermore, depending on the level its possible to know the threat level of the region with [classifications](https://ethics.harvard.edu/files/center-for-ethics/files/key_metrics_and_indicators_v4.pdf) as follows: green (< 1 daily new case per 100k), yellow (< 10 daily new case per 100k), orange (10<25 daily new case per 100k), and red (> 25 daily new case per 100k). As one can see average cases per 100 k have risen significantly in both locations over the course of the last month. While Baltimore has experienced more a rising plateau, the outbreak in Silver Bow county is much more severe and illnesses are increasing rapidly. 
 ![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure2_3dayavgincidence.jpg)
 ![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure3_7dayavgincidence.jpg)
