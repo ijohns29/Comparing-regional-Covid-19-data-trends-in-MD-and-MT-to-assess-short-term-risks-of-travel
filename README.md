@@ -33,7 +33,7 @@ First the daily covid cases for past 30 days were examined for Maryland and Mont
 ![alt text](https://github.com/ijohns29/Comparing-regional-Covid-19-data-trends-in-MD-and-MT-to-assess-short-term-risks-of-travel/blob/main/Figure_2_Covid19_daily_cases_MT.jpg)
 
 Secondly, we examined 3-day average trend and 3-day incidence. According to the CDC, the 3-day incidence number can be used to determine whether illnesses in the area are increasing, decreasing, or stable. Depending on the incidence level its possible to know the threat level of the region with [classifications](https://ethics.harvard.edu/files/center-for-ethics/files/key_metrics_and_indicators_v4.pdf) as follows: green (< 1 daily new case per 100k), yellow (< 10 daily new case per 100k), orange (10<25 daily new case per 100k), and red (> 25 daily new case per 100k). As one can see average cases per 100 k have risen significantly in both locations over the course of the last month. While Baltimore has experienced more a rising plateau, the outbreak in Silver Bow county is much more severe and illnesses are increasing rapidly. 
-![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure2_3dayavgincidence.jpg)
+![alt text](https://github.com/ijohns29/Comparing-regional-Covid-19-data-trends-in-MD-and-MT-to-assess-short-term-risks-of-travel/blob/main/Figure_3_Covid19_daily_cases_MD_avg.jpg)
 ![alt text](https://github.com/ijohns29/Baltimore-Butte-comparing-covid-19-data/blob/main/Figure3_7dayavgincidence.jpg)
 
 ## Trends in daily deaths
