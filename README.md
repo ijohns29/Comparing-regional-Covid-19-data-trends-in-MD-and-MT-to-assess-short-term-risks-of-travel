@@ -36,6 +36,7 @@ Secondly, we examined 3-day average trend and 3-day incidence. According to the 
 ![alt text](https://github.com/ijohns29/Comparing-regional-Covid-19-data-trends-in-MD-and-MT-to-assess-short-term-risks-of-travel/blob/main/Figure_3_Covid19_daily_cases_MD_avg.jpg)
 ![alt text](https://github.com/ijohns29/Comparing-regional-Covid-19-data-trends-in-MD-and-MT-to-assess-short-term-risks-of-travel/blob/main/Figure_4_Covid19_3_day_incidence_MD.jpg)
 ![alt text](https://github.com/ijohns29/Comparing-regional-Covid-19-data-trends-in-MD-and-MT-to-assess-short-term-risks-of-travel/blob/main/Figure5_3_day_avg_cases_MT.png)
+![alt text](https://github.com/ijohns29/Comparing-regional-Covid-19-data-trends-in-MD-and-MT-to-assess-short-term-risks-of-travel/blob/main/Figure6_3_day_incidence_MT.png)
 
 ## Trends in daily deaths
 The daily death rate for Baltimore City and Silver Bow county are shown below in FIgure 4. During the month of October and throughout November the death rate was stable in Baltimore city. In Silver Bow county there were essentially no deaths throughout October. However, as incidence began rising in October, this has lead to the death rate creeping up during the beginning of November. Given that cases per 100k are still rising there the death rate is expected to rise further. Additionally, Montana is a sparsely populated state. It does not have comparable resources to Maryland. Standards of care are likely to fall as cases rise, leading to more deaths, and the hospital bed ICU system has a much lower capacity compared to Maryland.
